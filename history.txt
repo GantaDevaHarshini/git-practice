@@ -1,0 +1,2 @@
+Git Project
+Version 1: Initial project created.
