@@ -1,0 +1,4 @@
+Git and GitHub Workflow
+
+This project demonstrates local version control.
+Changes are committed locally and synchronized with GitHub.
